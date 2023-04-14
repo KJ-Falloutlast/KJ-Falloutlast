@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=KJ-Falloutlast" /> </div>
 
 <!-- 7.活动统计图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KJ-Falloutlast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- 8.连续打卡 -->
