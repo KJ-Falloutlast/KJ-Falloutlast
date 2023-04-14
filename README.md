@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+My name is KJ,eg:Kim James, Here is my base info:
 
 - 🔭 I’m currently studying in CUMT in XuZhou.
 - 🌱 I’m currently reasearching SLAM, more specifically is MultiSensorFusion.
