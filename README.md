@@ -2,8 +2,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in CUMT in XuZhou.
-- 🌱 I’m currently reasearch direction is SLAM, more specifically is MultiSensorFusion.
-- 👯 I’m looking to collaborate on SLAM system Creation.
+- 🌱 I’m currently reasearching SLAM, more specifically is MultiSensorFusion.
+- 👯 I’m looking to collaborate on SLAM system Creation, I'm pushing myself on reaveling R3Live.
 - 📫 How to reach me: wechat: 13762623461, QQ: 479875948.
 - 😄 Pronouns: English, Chinese, German.
 
