@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=KJ-Falloutlast" /> </div>
 
 <!-- 7.活动统计图 -->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kj-falloutlast&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- 8.连续打卡 -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KJ-Falloutlast" /> </div>
