@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <!-- 6.访客徽章 -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=KJ-Falloutlast" /> </div>
 
-<!-- 7.活动统计图 -->
+<!-- 7.活动统计图
+7-1.一定要把usrname改成KJ-Falloutlast 
+-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KJ-Falloutlast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
