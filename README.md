@@ -5,7 +5,7 @@ My name is KJ,eg:Kim James, Here are my infos:
 - 🌱 I’m currently reasearching SLAM, more specifically is MultiSensorFusion.
 - 👯 I’m looking to collaborate on Multisensor Fusion SLAM.
 - 📫 How to reach me: wechat: 13762623461, QQ: 479875948.
-- 😄 Pronouns: English, Chinese.
+- 😄 Pronouns: He/Him.
 
 [![James's github stats](https://github-readme-stats.vercel.app/api?username=KJ-Falloutlast)](https://github.com/anuraghazra/github-readme-stats)
 
