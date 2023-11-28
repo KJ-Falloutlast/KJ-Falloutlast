@@ -23,7 +23,4 @@ My name is KJ,eg:Kim James, Here are my infos:
 <!-- 6.访客徽章 -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=KJ-Falloutlast" /> </div>
 
-<!-- 8.连续打卡 -->
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KJ-Falloutlast" /> </div>
-
 
