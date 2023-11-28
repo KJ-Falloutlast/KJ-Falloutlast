@@ -7,7 +7,7 @@ My name is KJ,eg:Kim James, Here are my infos:
 - 📫 How to reach me: wechat: 13762623461, QQ: 479875948.
 - 😄 Pronouns: English, Chinese.
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![James's github stats](https://github-readme-stats.vercel.app/api?username=KJ-Falloutlast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 2.github统计卡片 -->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KJ-Falloutlast&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
@@ -18,10 +18,12 @@ My name is KJ,eg:Kim James, Here are my infos:
 <!-- 5.徽章 -->
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
+<!-- 5.曲线-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KJ-Falloutlast&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!-- 6.访客徽章 -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=KJ-Falloutlast" /> </div>
-
-
 
 <!-- 8.连续打卡 -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KJ-Falloutlast" /> </div>
