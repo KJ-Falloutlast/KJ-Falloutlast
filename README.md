@@ -7,6 +7,7 @@ My name is KJ,eg:Kim James, Here are my infos:
 - 📫 How to reach me: wechat: 13762623461, QQ: 479875948.
 - 😄 Pronouns: English, Chinese.
 
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!-- 2.github统计卡片 -->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KJ-Falloutlast&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
