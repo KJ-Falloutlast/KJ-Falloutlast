@@ -26,10 +26,4 @@ My name is KJ,eg:Kim James, Here are my infos:
 <!-- 8.连续打卡 -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KJ-Falloutlast" /> </div>
 
-<!-- 9.社交统计
-api是leetcode, username = kj-falloutlast 
--->
-<div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=kj-falloutlast&cn=true"> </div>
 
-<!-- 10.打字特效 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
