@@ -17,7 +17,5 @@ My name is KJ,eg:Kim James, Here are my infos:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KJ-Falloutlast&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!-- 6.访客徽章 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=KJ-Falloutlast" /> </div>
 
 
